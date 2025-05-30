@@ -11,16 +11,22 @@ Built with Next.js, Vertex Horizon is a financial SaaS platform that connects to
 ![Home Page](/public/Home%20Page.png)
 
 #### Transaction History Page
-![Transaction History Page](/frontend/public/Screenshot%202.png)
+![Transaction History Page](/public/Transaction%20History%20Page.png)
 
 #### Transfer Funds Page
-![Transfer Funds Page](/frontend/public/Screenshot%203.png)
+![Transfer Funds Page](/public/Transfer%20Funds%20Page.png)
 
 #### Link Account Page
-![Link Account Page](/frontend/public/Screenshot%204.png)
+![Link Account Page](/public/Link%20Account%20Page.png)
 
 #### Secure bank Account Link Page
-![Link Account Page](/frontend/public/Screenshot%204.png)
+![Link Account Page](/public/Secure%20Bank%20account%20Link%20Page.png)
+
+#### SignUp Page
+![Link Account Page](/public/Sign%20Up%20Page.png)
+
+#### SignIn Page
+![Link Account Page](/public/Sign%20In%20Page.png)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
